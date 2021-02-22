@@ -1,0 +1,11 @@
+<svg id="Component_15_1" data-name="Component 15 – 1" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="social-media-3" transform="translate(9 9.001)">
+    <path id="Path_2537" data-name="Path 2537" d="M2.177-.668a2.006,2.006,0,1,0-.051,4h.025a2.007,2.007,0,1,0,.026-4Zm0,0" transform="translate(0 0.668)" fill="#adadad"/>
+    <path id="Path_2538" data-name="Path 2538" d="M8.109,198.313h3.849v11.58H8.109Zm0,0" transform="translate(-7.882 -192.73)" fill="#adadad"/>
+    <path id="Path_2539" data-name="Path 2539" d="M228.533,188.625a4.822,4.822,0,0,0-3.469,1.951V188.9h-3.849v11.58h3.849V194.01a2.638,2.638,0,0,1,.127-.939,2.107,2.107,0,0,1,1.975-1.407c1.393,0,1.95,1.062,1.95,2.619v6.195h3.849v-6.64C232.964,190.28,231.065,188.625,228.533,188.625Zm0,0" transform="translate(-215.009 -183.314)" fill="#adadad"/>
+  </g>
+  <g id="Ellipse_17" data-name="Ellipse 17" fill="none" stroke="#adadad" stroke-width="1">
+    <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+    <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+  </g>
+</svg>
